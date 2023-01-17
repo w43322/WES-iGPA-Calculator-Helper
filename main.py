@@ -28,13 +28,13 @@ def main():
         #email_addr="电子邮箱地址",
 
     # 就读院校名
-        #institution_name="加里墩大学"
+        #institution_name="加里墩大学",
 
     # 学位名
-        #degree_name="XX学士学位"
+        #degree_name="XX学士学位",
 
     # 就读时间，不填默认4年
-        #sem_year="4"
+        #sem_year="4",
 
     # 代理服务器端口号
         #proxy_port="端口号",
